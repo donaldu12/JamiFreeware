@@ -12,3 +12,5 @@ Full Changelog: https://github.com/donaldu12/JamiFreeware/commits/1.0.6
 c:\자미명반freeware 폴더에 설치됩니다
 
 
+
+https://github.com/donaldu12/JamiFreeware/releases/download/1.0.6/Freeware.1.0.6Setup.exe
