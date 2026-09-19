@@ -1,16 +1,15 @@
 # 자미명반Freeware
 
-누구나 사용할 수 있도록 한
-자미명반Freeware v1.0.6 입니다
+누구나 사용할 수 있도록 만들어진 **자미명반Freeware v1.0.6** 입니다.
 
-오프라인 사용이 가능하고, 인터넷 연결이 필요하지 않습니다
-어떠한 개인정보도 수집, 전송하지 않습니다
-
-Full Changelog: https://github.com/donaldu12/JamiFreeware/commits/1.0.6
-
-아래의 exe 파일을 설치하시면
-c:\자미명반freeware 폴더에 설치됩니다
+* 오프라인 사용 가능 (인터넷 연결 불필요)
+* 어떠한 개인정보도 수집 및 전송하지 않습니다.
 
 
+아래 Download 버튼을 누르면 설치파일이 다운로드 됩니다
 
-https://github.com/donaldu12/JamiFreeware/releases/download/1.0.6/Freeware.1.0.6Setup.exe
+
+[![Download](https://img.shields.io/badge/Download-v1.0.6_Setup-blue?style=for-the-badge&logo=windows)](https://github.com/donaldu12/JamiFreeware/releases/download/1.0.6/Freeware.1.0.6Setup.exe)
+[![Release](https://img.shields.io/badge/Release_Notes-v1.0.6-green?style=for-the-badge)](https://github.com/donaldu12/JamiFreeware/releases/tag/1.0.6)
+
+> **설치 안내**: 설치파일 실행 시 `C:\자미명반freeware` 경로에 설치됩니다.
