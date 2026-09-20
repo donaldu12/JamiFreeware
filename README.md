@@ -64,3 +64,22 @@
 * 실행방법 2 - 직접 파일 위치에서 실행<br>
 * 내컴퓨터 -> c: 드라이브 -> 자미명반Freeware 폴더에 있는 [자미두수.exe] 파일을 실행합니다.
 <img width="834" height="696" alt="image" src="https://github.com/user-attachments/assets/ad31f297-b485-477f-8253-14dc2b382266" />
+
+<br><br><br>
+
+# 📥 Microsoft .NET 8 Runtime 설치가 필요합니다
+* 아래의 안내창이 뜬다면 [Download Now] 를 눌러서 설치하신 후 실행하시면 됩니다.
+<img width="440" height="291" alt="image" src="https://github.com/user-attachments/assets/d56befd1-4af5-473f-945d-c9d7c3ef844d" />
+
+<br><br>
+* 만일 안내창도 뜨지 않고 실행이 되지 않는다면 수동으로 runtime을 설치해야 합니다
+  <br>
+  [![Download](https://img.shields.io/badge/Download-_.NET_8_Runtime-purple?style=for-the-badge&logo=windows)](https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/8.0.31/windowsdesktop-runtime-8.0.31-win-x64.exe)
+> **설치 안내**: 위 버튼을 눌러서 .net 8 runtime 다운로드를 시작하세요
+
+<br><br>
+
+* [설치] 를 누르고 -> 사용자 계정 컨트롤 창이 나오면 [예] 를 누르면 설치가 완료됩니다
+  <img width="646" height="461" alt="image" src="https://github.com/user-attachments/assets/b8deb93c-9199-4ae2-956d-2288c8ba2d74" />
+
+<img width="646" height="461" alt="image" src="https://github.com/user-attachments/assets/ca76ec25-a287-4574-a9fe-7895fbf9c350" />
