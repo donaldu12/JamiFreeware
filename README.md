@@ -83,3 +83,25 @@
   <img width="646" height="461" alt="image" src="https://github.com/user-attachments/assets/b8deb93c-9199-4ae2-956d-2288c8ba2d74" />
 
 <img width="646" height="461" alt="image" src="https://github.com/user-attachments/assets/ca76ec25-a287-4574-a9fe-7895fbf9c350" />
+
+<br><br>
+
+Microsoft Store에서도 설치할 수 있습니다
+https://apps.microsoft.com/detail/9mvccft8z3qx
+
+
+<img alt="msix 설치방법" src="https://github.com/user-attachments/assets/10696dbd-ca92-4a3f-8d97-8248f5d534b0" />
+<img alt="사용법" src="https://github.com/user-attachments/assets/07806cad-7538-489b-a368-090d2307a01d" />
+
+<br><br>
+가끔 스토어에서 설치중 오류가 발생하면 더이상 설치가 안되는 경우가 있습니다.
+
+이 경우에는 시작 -> cmd 검색 해서 관리자 권한으로 실행 한 후
+
+powershell "Get-AppxPackage -AllUsers *C8D1BDF1.Freeware* | Remove-AppxPackage -AllUsers"
+
+ 
+
+를 복사해서 붙여넣기 하여 실행하시면 제대로 제거가 됩니다.
+
+이후 설치를 다시 진행하시면 됩니다.
